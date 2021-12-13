@@ -1,0 +1,23 @@
+---
+sidebar: sidebar 
+permalink: rn/about.html 
+keywords:  
+summary:  
+---
+= 关于此版本
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+本站点的文档介绍了随 Astra Control 2021 年 8 月（ 21.08 ）和 2021 年 4 月（ 21.04 ）版提供的 Astra Control REST API 以及相关自动化技术。特别是，此版本的 REST API 将与相应的 21.08 版 Astra 控制中心结合使用。
+
+有关此版本以及先前版本的详细信息，请参见以下页面和站点：
+
+* link:../rn/whats_new.html["Astra Control REST API 的新增功能"]
+* link:../endpoints/resources.html["资源和端点"]
+* https://docs.netapp.com/us-en/astra-control-center-2108/["Astra Control Center 2108 文档"^]
+
