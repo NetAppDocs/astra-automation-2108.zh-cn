@@ -713,7 +713,6 @@
   <block id="846402b8c9f043783b1fea0eaa5d5e3a" category="paragraph">您可以列出为特定 Astra 帐户定义的 S3 存储分段。</block>
   <block id="03cc29fd4f89a995e6358b462606ee73" category="cell">/account/ ｛ accountID ｝ /topology/v1/b桶</block>
   <block id="cfafa44c04121f529847f5cd8be51756" category="section-title">curl 示例：返回所有存储分段的所有数据</block>
-  <block id="27cf840321d17e56b1aa845077c2a75a" category="sidebar">Astra 自动化文档</block>
   <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">入门</block>
   <block id="8a72d09dc95b3b91b5b0e50e2855c7df" category="sidebar">简要了解 Astra REST API 。</block>
   <block id="ac765f2f54ea73e1526cf01bac4a309b" category="sidebar">准备开始使用 REST API 。</block>
@@ -759,4 +758,5 @@
   <block id="35ddd64ed03dd1579ce39e6e82ff721f" category="sidebar">其他 REST 注意事项</block>
   <block id="36b64aad8a26246fe3ad4116a2b6f289" category="sidebar">诊断</block>
   <block id="f05754a1ff0413a18fba9fcecbf43b4d" category="sidebar">获取 API 令牌</block>
+  <block id="fda120b29e48b5fb403036f2c330ff07" category="sidebar">Astra Control Automation 21.08 文档</block>
 </blocks>

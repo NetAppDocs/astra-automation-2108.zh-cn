@@ -9,7 +9,7 @@ settings:
     langs: zh-cn,us-en,ja-jp
 sidebar:
   entries:
-  - title: Astra 自动化文档
+  - title: Astra Control Automation 21.08 文档
     url: "/index.html"
   - section: rn
   - section: intro
