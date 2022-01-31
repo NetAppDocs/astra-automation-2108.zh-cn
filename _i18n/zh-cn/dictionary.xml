@@ -209,7 +209,6 @@
   <block id="332b0c66434f09b3a45336c87ac0af07" category="paragraph">以下文件包含 API 令牌和 Astra 帐户。您需要使用 ` -i` （或 ` -identity` ） CLI 参数将此文件传递到 Python 脚本。</block>
   <block id="a50be7a834c95319089495cab34dcc3a" category="doc">列出受管应用程序</block>
   <block id="e61ad2d01a2692e9ed29c90c0c413101" category="paragraph">您可以使用以下脚本列出 Astra 帐户的受管应用程序。</block>
-  <block id="2d5a5fa8a82d5c201cb1e33457f8b169" category="doc">Astra Control REST API 新增功能</block>
   <block id="b0c0f8ac8f671541655d3d0e2beb2ce8" category="paragraph">NetApp 会定期更新 Astra Control REST API ，为您提供新功能，增强功能和错误修复。</block>
   <block id="b179356a4d80ff3c8707972005712b2f" category="section-title">2021 年 8 月 5 日（ 21.08 ）</block>
   <block id="adbf11dd6ee196fa62d94a4c1d8e03f2" category="paragraph">此版本引入了新的 Astra 部署模式，并对 REST API 进行了重大扩展。</block>
@@ -759,4 +758,5 @@
   <block id="36b64aad8a26246fe3ad4116a2b6f289" category="sidebar">诊断</block>
   <block id="f05754a1ff0413a18fba9fcecbf43b4d" category="sidebar">获取 API 令牌</block>
   <block id="fda120b29e48b5fb403036f2c330ff07" category="sidebar">Astra Control Automation 21.08 文档</block>
+  <block id="c93cc787737ceea532bea714170e32cf" category="doc">Astra Control REST API 的新增功能</block>
 </blocks>
