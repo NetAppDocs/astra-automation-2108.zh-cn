@@ -6,6 +6,7 @@ summary:
 ---
 = 使用收集
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

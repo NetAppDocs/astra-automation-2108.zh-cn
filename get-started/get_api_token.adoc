@@ -6,6 +6,7 @@ summary:
 ---
 = 获取 API 令牌
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 
