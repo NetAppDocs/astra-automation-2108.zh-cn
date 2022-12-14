@@ -170,8 +170,6 @@
   <block id="352836aad17f0db4217873eb0a9524b3" category="paragraph">虽然信息可以通过多种方式在 Web 服务客户端和服务器之间进行结构化和传输，但最受欢迎的选项是 JavaScript 对象表示法（ JSON ）。JSON 是一种行业标准，用于以纯文本形式表示简单数据结构，并用于传输描述资源的状态信息。Astra Control REST API 使用 JSON 格式化每个 HTTP 请求和响应正文中包含的数据。</block>
   <block id="916bff7b68625feaff0fa92152a8c4f0" category="doc">URL 格式</block>
   <block id="94fd56b370187429c8fbd312f50f5c1b" category="paragraph">用于通过 REST API 访问资源实例或集合的 URL 的常规结构由多个值组成。此结构反映了底层对象模型和系统设计。</block>
-  <block id="04af7c5cae35340b12ac2ff18f2993fb" category="section-title">URL 的格式</block>
-  <block id="3e0ab85384ebe4f846202e772b341dc5" category="paragraph">下面显示了 URL 的格式以及一个示例。</block>
   <block id="6e84a7dae5ae82dd22a0ec6f456dbc8d" category="section-title">帐户作为 root</block>
   <block id="e166d573b25ce4160633b91145d1eae5" category="paragraph">指向每个 REST 端点的资源路径的根是 Astra 帐户。因此， URL 中的所有路径均以 ` /account/ ｛ account_id ｝` 开头，其中 `account_id` 是帐户的唯一 UUIDv4 值。内部结构这反映了一种设计，其中所有资源访问都基于特定帐户。</block>
   <block id="faf17fd8415851163c880ffe0eee8b37" category="section-title">端点资源类别</block>
@@ -576,7 +574,6 @@
   <block id="9b73989307c1975dfa4d5e1581e4afe8" category="paragraph">通知文件提供有关 NetApp 软件中使用的第三方版权和许可证的信息。</block>
   <block id="fbd3ad11889bebf7ba34d30c64465dc9" category="inline-link">有关 Astra 的通知</block>
   <block id="b571cab532f203c4ad9f53bdd8a27935" category="paragraph"><block ref="b571cab532f203c4ad9f53bdd8a27935" category="inline-link-rx"></block></block>
-  <block id="c59ae8d7beeb519a23478ab048af482c" category="paragraph"><block ref="c59ae8d7beeb519a23478ab048af482c" category="inline-link-macro-rx"></block></block>
   <block id="e81b0f8fae224ca0c3d3258b75a989dd" category="section-title">Astra Control API 许可证</block>
   <block id="8814863051032c96890d514b89b4519c" category="paragraph">Astra Control REST API 提供了多种不同的方法来通过定义的查询参数访问资源收集。</block>
   <block id="bf14a6bb5484aa858662864c8b0d062f" category="section-title">选择值</block>
@@ -759,4 +756,6 @@
   <block id="f05754a1ff0413a18fba9fcecbf43b4d" category="sidebar">获取 API 令牌</block>
   <block id="fda120b29e48b5fb403036f2c330ff07" category="sidebar">Astra Control Automation 21.08 文档</block>
   <block id="c93cc787737ceea532bea714170e32cf" category="doc">Astra Control REST API 的新增功能</block>
+  <block id="bbe48fb854ea022537208eeeff822f91" category="paragraph-title">关于此任务</block>
+  <block id="bd965e38a0c9cf27aa1bde099308e23f" category="paragraph-title">完成后</block>
 </blocks>
