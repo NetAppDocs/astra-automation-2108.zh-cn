@@ -121,7 +121,6 @@
   <block id="2974f783f17d54a41f4040c8daa90545" category="section-title">HTTP status codes</block>
   <block id="175b29f6f8dd1aa8a166427b6bcd061c" category="paragraph">下面介绍了 Astra Control REST API 使用的 HTTP 状态代码。</block>
   <block id="68f3bee395b27d2cbfdf4b021846dcca" category="inline-link-macro">诊断和支持</block>
-  <block id="ef69df9e80d5e1591d22bfe189aa737e" category="admonition">Astra Control REST API 还使用 * HTTP APIs* 标准的问题详细信息。请参见 <block ref="d9c154af7dec160f41ead610ccb970e9" category="inline-link-macro-rx"></block> 有关详细信息 ...</block>
   <block id="ca0dbad92a874b2f69b549293387925e" category="cell">代码</block>
   <block id="7277de5f2ed6f17c61f1f25594591a82" category="cell">含义</block>
   <block id="3644a684f98ea8fe223c713b77189a77" category="cell">200</block>
@@ -758,4 +757,5 @@
   <block id="c93cc787737ceea532bea714170e32cf" category="doc">Astra Control REST API 的新增功能</block>
   <block id="bbe48fb854ea022537208eeeff822f91" category="paragraph-title">关于此任务</block>
   <block id="bd965e38a0c9cf27aa1bde099308e23f" category="paragraph-title">完成后</block>
+  <block id="d9a8eedd670f58ed76d5ae881e6d4469" category="admonition">Astra Control REST API 还使用 * HTTP APIs* 标准的问题详细信息。请参见 <block ref="e560597744bc7b2711ae89c683c4035f" category="inline-link-macro-rx"></block> 有关详细信息 ...</block>
 </blocks>
