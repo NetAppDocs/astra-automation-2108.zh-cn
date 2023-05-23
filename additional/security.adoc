@@ -47,7 +47,7 @@ NOTE: 所有 HTTP 网络流量均使用传输层安全（ Transport Layer Securi
 .步骤
 . 使用您的帐户凭据登录到 Astra 。
 +
-访问以下站点以获取 Astra 控制服务： https://["https://astra.netapp.io"^]
+访问以下站点以获取 Astra 控制服务： https://astra.netapp.io/["https://astra.netapp.io"^]
 
 . 单击页面右上角的图图标并选择 * API access* 。
 . 选择要撤消的一个或多个令牌。

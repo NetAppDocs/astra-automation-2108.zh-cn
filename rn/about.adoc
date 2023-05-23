@@ -20,5 +20,5 @@ summary:
 
 * link:../rn/whats_new.html["Astra Control REST API 的新增功能"]
 * link:../endpoints/resources.html["资源和端点"]
-* https://["Astra Control Center 2108 文档"^]
+* https://docs.netapp.com/us-en/astra-control-center-2108/["Astra Control Center 2108 文档"^]
 

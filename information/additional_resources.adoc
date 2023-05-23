@@ -20,15 +20,15 @@ summary:
 
 == Astra
 
-* https://["Astra Control Center 2108 文档"^]
+* https://docs.netapp.com/us-en/astra-control-center-2108/["Astra Control Center 2108 文档"^]
 +
 在客户内部部署的 Astra Control Center 软件的文档。
 
-* https://["Astra Control Service 文档"^]
+* https://docs.netapp.com/us-en/astra-control-service/["Astra Control Service 文档"^]
 +
 公有云中提供的 Astra 控制服务软件文档。
 
-* https://["Astra Trident 文档"^]
+* https://docs.netapp.com/us-en/trident/["Astra Trident 文档"^]
 +
 由 NetApp 维护的 Astra Trident 开源存储编排程序的文档。
 
@@ -38,15 +38,15 @@ summary:
 
 == NetApp 云资源
 
-* https://["NetApp 云解决方案"^]
+* https://cloud.netapp.com/["NetApp 云解决方案"^]
 +
 NetApp 云解决方案的中央站点。
 
-* https://["NetApp Cloud Central 控制台"^]
+* https://services.cloud.netapp.com/redirect-to-login?startOnSignup=false["NetApp Cloud Central 控制台"^]
 +
 可登录的 NetApp Cloud Central 服务控制台。
 
-* https://["NetApp 支持"^]
+* https://mysupport.netapp.com/["NetApp 支持"^]
 +
 访问故障排除工具，文档和技术支持帮助。
 
@@ -56,15 +56,15 @@ NetApp 云解决方案的中央站点。
 
 == REST 概念和云技术
 
-* 博士 https://["Dissertation"^] 由 Roy Fielding 主讲
+* 博士 https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm["Dissertation"^] 由 Roy Fielding 主讲
 +
 本出版物介绍并建立了 REST 应用程序开发模型。
 
-* https://["Auth0"^]
+* https://auth0.com/["Auth0"^]
 +
 这是 Astra 服务用于 Web 访问的身份验证和授权平台服务。
 
-* https://["RFC 编辑器"^]
+* https://www.rfc-editor.org/["RFC 编辑器"^]
 +
 Web 和 Internet 标准的权威来源，作为一组编号唯一的 RFC 文档进行维护。
 
