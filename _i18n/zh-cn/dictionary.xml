@@ -266,7 +266,6 @@
   <block id="7d88293618d45c51062ebb23f7a5777d" category="list-text">单击页面右上角的图图标并选择 * API access* 。</block>
   <block id="a242cf3d90ad638fe0e23d9477b74175" category="list-text">在页面顶部，单击 * API Documentage* 下显示的 URL 。</block>
   <block id="1cafd580155ad918d6c525c18cc8e5e6" category="list-text">如果出现提示，请重新提供您的帐户凭据。</block>
-  <block id="c6c51849eeb1ac322baa3a99b7cd7e43" category="summary">这是 Astra Automation 的总结。</block>
   <block id="832210201d55f5c764a32c055a00b726" category="doc">Astra Control Automation 21.08 文档</block>
   <block id="f33f60a3b5c95e8659ec5a992f0f055c" category="doc">取消管理应用程序</block>
   <block id="2b194b9170143eb845c618e13f34e5fb" category="paragraph">您可以删除不再需要的受管应用程序。删除受管应用程序也会删除关联的计划。</block>
@@ -766,4 +765,5 @@
   <block id="dd38f906b37d412de7d1c1dcf4cbf31c" category="paragraph"><block ref="dd38f906b37d412de7d1c1dcf4cbf31c" category="inline-link-macro-rx"></block></block>
   <block id="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-macro"><block ref="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-rx"></block></block>
   <block id="2352c4e1f4d0024ade0869e00e6243f4" category="paragraph"><block ref="2352c4e1f4d0024ade0869e00e6243f4" category="inline-link-macro-rx"></block></block>
+  <block id="775e2faa120631457b3eb5f26a2f323a" category="sidebar">Astra Control是一款NetApp软件产品、可为您的Kubernetes应用程序提供数据生命周期管理。根据您的环境、有两种部署模式可供选择。在给定版本中、Astra控制中心和Astra控制服务都共享相同的REST API。您可以使用API和其他相关自动化技术来管理Astra Control部署。</block>
 </blocks>
